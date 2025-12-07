@@ -2,8 +2,6 @@
 
 This repository contains my personal portfolio site ([https:yulialop.github.io](https://yulialop.github.io)), built using [Quarto](https://quarto.org/), showcasing my data analysis and data visualisation projects.
 
-<a href="https://quarto.org/" target="_blank">Quarto</a>
-
 ## About
 
 The site includes:
