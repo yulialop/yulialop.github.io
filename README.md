@@ -1,6 +1,6 @@
 # Portfolio Site
 
-This repository contains my personal portfolio site, built using [Quarto](https://quarto.org/), showcasing my data analysis and data visualisation projects.
+This repository contains my personal portfolio site ([https:yulialop.github.io](https://yulialop.github.io)), built using [Quarto](https://quarto.org/), showcasing my data analysis and data visualisation projects.
 
 ## About
 
