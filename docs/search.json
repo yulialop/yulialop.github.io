@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "RELEVANT WORK EXPERIENCE\nData Analytics Manager | Baker McKenzie\nJuly 2025 - Present | Madrid\n\nSuccessfully operate as a manager, the go-to data visualisation expert, and a high-performing individual contributor by consistently applying and enhancing analytical capabilities to support critical financial and operational decisions, while also coaching and mentoring team members.\nDeliver a succinct monthly narrative and visual analysis for global leadership, transforming complex financial and operational data into clear insights and recommendations.\nCollaborate with cross-functional teams to align data requirements, develop and refine performance metrics, optimise data flows, and ensure that analytical solutions support wider business priorities.\nTransform core analytical data flows from manual extraction to automated pipelines, improving consistency and saving over 300 hours annually by eliminating repetitive tasks.\n\nBusiness Intelligence Analyst | Baker McKenzie\nApril 2019 – June 2025 | Madrid\n\nAnalysed quantitative data using descriptive and exploratory methods, providing clear interpretations and visual insights that supported decision-making.\nLed full analytical project life cycles from initial problem definition through data exploration, insight generation, documentation, and final implementation, ensuring accuracy, usability, and alignment with stakeholder needs. Developed interactive client-facing dashboards that contributed to successful client pitches in multiple countries.\nDesigned and successfully implemented interactive dashboards across the firm, adhering to best-practice standards to ensure accuracy, usability, and consistency. Developed a self-service tool that reduced the average time to submit attorney work for billing by 40% within two months.\nMaintained over 80 interactive dashboards, sourced from multiple data sources, attracting around 15,000 monthly views from more than 2,600 unique users.\n\nManagement Accountant | Baker McKenzie\nJune 2015 – April 2019 | Moscow\n\nLed monthly management reporting and managed core finance processes, analysing variances and consolidating data to provide accurate, timely insights on financial performance to senior stakeholders.\n\n\n\nEDUCATION\nMSc Business Analytics | University of Bath\nWith Distinction*\nMay 2023 – September 2025 | Bath\n\nRelevant units: Business Intelligence (77%), Business Statistics (84%), Databases (75%), Data Mining (68%), Forecasting (77%), Heuristics (79%), Machine Learning (91%), Optimisation (73%).\nFinal Dissertation (77%): Conducted NLP analysis of e-commerce customer reviews, extracting sentiment, emotion and topic features using Transformer models from Hugging Face. Applied multiple linear regression to explain star-rating variation and used clustering analysis to identify how these features differentiate types of customer feedback and reveal user behaviour patterns. Presented the business implications and practical recommendations in a clear, accessible way for a non-technical audience.\n* Degree award pending approval by the Board of Examiners\n\nBSc (Hons) Accounting & Finance | Peoples’ Friendship University of Russia\nFirst Class Honours Equivalent\nSeptember 2006 – June 2009 | Moscow\n\nRelevant units: Accounting, Auditing Fundamentals, Budget Management and Planning, Business Finance, Financial Management, Investment Management, Marketing, Probability and Mathematical Statistics.\n\n\n\nCERTIFICATIONS 🔗\nLean Six Sigma Yellow Belt\nBaker McKenzie\nJuly 2025 | Belfast\n\nApplied process improvement principles to optimise data workflows and enhance the efficiency and accuracy of client-facing data analysis.\n\nIBM Data Science 🔗\nIBM Skills Network\nJanuary 2023 | Online\n\nPractical experience in Python, SQL, machine learning, statistical analysis, and the full data science lifecycle through cloud-based labs and a capstone project.\n\nGoogle Data Analytics 🔗\nGoogle Career Certificates\nApril 2022 | Online\n\nGained an immersive understanding of the data analysis practices and processes.\nLearnt key analytical skills (data cleaning, analysis, & visualisation) and tools (spreadsheets, SQL, R programming, Tableau).\n\n\n\nInteractive CV\n\n  \n  \n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Production Process Simulation\n\n\n\ncode\n\ndiscrete event simulation\n\nscenario analysis\n\nR\n\n\n\n\n\n\n\n\n\nApr 22, 2025\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nPredictive Analysis of Mobile Game Ratings\n\n\n\ncode\n\nmachine learning\n\npredictive analysis\n\nR\n\n\n\n\n\n\n\n\n\nDec 20, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nTime-Series Forecasting - M3 Competition\n\n\n\ncode\n\ntime-series\n\nforecasting\n\nR\n\n\n\n\n\n\n\n\n\nApr 5, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nWorkout Performance Tracker\n\n\n\ndashboard\n\nTableau\n\ntime-series\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nArabica Coffee Quality\n\n\n\ndashboard\n\nTableau\n\nregression\n\n\n\n\n\n\n\n\n\nAug 8, 2023\n\n\nYulia Lopatina\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Workout Tracker/index.html",
+    "href": "posts/Workout Tracker/index.html",
+    "title": "Workout Performance Tracker",
+    "section": "",
+    "text": "This interactive dashboard summarises workout activity captured by Apple Watch and converts personal fitness metrics into a concise analytical view. The workflow reflects transformation of raw sensor inputs into structured insights and highlights patterns in workout activity over time. The design draws inspiration from the Apple Watch Workout app, creating a familiar and intuitive interface while demonstrating how analytical methods can be applied to real-world behavioural data."
+  },
+  {
+    "objectID": "posts/Mobile Games/index.html",
+    "href": "posts/Mobile Games/index.html",
+    "title": "Predictive Analysis of Mobile Game Ratings",
+    "section": "",
+    "text": "This project analyses the “17K Mobile Strategy Games” and explores the factors associated with user satisfaction and identifies patterns driving engagement and positive reviews."
+  },
+  {
+    "objectID": "posts/M3 Time-Series Forecasting/index.html",
+    "href": "posts/M3 Time-Series Forecasting/index.html",
+    "title": "Time-Series Forecasting - M3 Competition",
+    "section": "",
+    "text": "The project explores the efficacy of different statistical models in accurately predicting future values of quarterly time series data from the M3 competition data set."
+  },
+  {
+    "objectID": "posts/Coffee Quality/index.html",
+    "href": "posts/Coffee Quality/index.html",
+    "title": "Arabica Coffee Quality",
+    "section": "",
+    "text": "This interactive dashboard examines Arabica coffee quality and shows how key attributes relate to the overall grade, supported by regression-based insights. It frames coffee as a product with measurable quality drivers, illustrating how data can guide sourcing decisions, pricing, and strategic positioning in the coffee market."
+  },
+  {
+    "objectID": "posts/Discreet Event Simulation/index.html",
+    "href": "posts/Discreet Event Simulation/index.html",
+    "title": "Production Process Simulation",
+    "section": "",
+    "text": "This project analyses and simulates ABC Co.’s production process to identify bottlenecks and assess the financial impact of delays. By modelling alternative scenarios, it proposes data-driven improvements that enhance efficiency and reduce operational costs."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yulia Lopatina",
+    "section": "",
+    "text": "I am an experienced Business Intelligence Analyst with a background in finance and operations and a master’s degree in Business Analytics.\nI am interested in data science and enjoy developing analytical solutions that transform complex information into clear and actionable insights. My projects involve time-series forecasting, machine learning, NLP, regression, clustering, optimisation, and data visualisation.\nMy technical toolkit includes Python, R, R Markdown, SQL, Microsoft Excel (incl. solver, VBA, pivot tables, macros), Power BI, and Tableau."
+  }
+]
