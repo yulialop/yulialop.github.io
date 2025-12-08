@@ -17,6 +17,11 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
+.verybold{
+    font-weight: 900;
+    font-style: bold;
+}
+
 .my-link-class {
   text-decoration: none;
   /*color: #FAFAFA;*/
