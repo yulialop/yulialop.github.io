@@ -26,3 +26,28 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-brand {
   padding-left: 20px;
 }
+
+/* Applies to screens below 768px */
+@media (max-width: 768px) {
+  /* Reduce padding and spacing */
+  .navbar {
+    padding: 0.5rem 1rem;
+  }
+
+  /* Stack left-side nav items vertically */
+  .navbar-nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  /* Adjust links (Home, CV, Projects) */
+  .navbar-nav .nav-link {
+    padding: 0.4rem 0;
+    font-size: 1rem;
+  }
+
+  /* Move right-side icons below as well */
+  .navbar-right {
+    margin-top: 0.5rem;
+  }
+}
