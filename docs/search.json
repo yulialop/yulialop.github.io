@@ -18,35 +18,35 @@
     "href": "posts/Workout Tracker/index.html",
     "title": "Workout Performance Tracker",
     "section": "",
-    "text": "This interactive dashboard summarises workout activity captured by Apple Watch and converts personal fitness metrics into a concise analytical view. The workflow reflects transformation of raw sensor inputs into structured insights and highlights patterns in workout activity over time. The design draws inspiration from the Apple Watch Workout app, creating a familiar and intuitive interface while demonstrating how analytical methods can be applied to real-world behavioural data."
+    "text": "This interactive dashboard summarises my workout activity recorded by Apple Watch and converts personal fitness metrics into a clear analytical view. The design draws inspiration from the Apple Watch Workout app, creating a familiar, intuitive interface while demonstrating how analytical methods can be applied to real-world behavioural data."
   },
   {
     "objectID": "posts/Mobile Games/index.html",
     "href": "posts/Mobile Games/index.html",
     "title": "Predictive Analysis of Mobile Game Ratings",
     "section": "",
-    "text": "This project analyses the “17K Mobile Strategy Games” and explores the factors associated with user satisfaction and identifies patterns driving engagement and positive reviews."
+    "text": "In this project, I analyse the “17K Mobile Strategy Games” to explore the factors associated with user satisfaction and identify patterns driving engagement and positive reviews."
   },
   {
     "objectID": "posts/M3 Time-Series Forecasting/index.html",
     "href": "posts/M3 Time-Series Forecasting/index.html",
     "title": "Time-Series Forecasting - M3 Competition",
     "section": "",
-    "text": "The project compares the efficacy of different statistical models in predicting future values of quarterly time series data from the M3 competition data set."
+    "text": "The project assesses the performance of different statistical models in forecasting future values of quarterly time series data from the M3 competition dataset."
   },
   {
     "objectID": "posts/Coffee Quality/index.html",
     "href": "posts/Coffee Quality/index.html",
     "title": "Arabica Coffee Quality",
     "section": "",
-    "text": "This interactive dashboard examines Arabica coffee quality and shows how key attributes relate to the overall grade, supported by regression-based insights. It frames coffee as a product with measurable quality drivers, illustrating how data can guide sourcing decisions, pricing, and strategic positioning in the coffee market."
+    "text": "This interactive dashboard explores Arabica coffee quality and demonstrates how key attributes influence the overall grade, supported by regression-based insights. It presents coffee as a product with measurable quality drivers, showing how data can inform sourcing decisions, pricing, and strategic positioning within the coffee market."
   },
   {
     "objectID": "posts/Discreet Event Simulation/index.html",
     "href": "posts/Discreet Event Simulation/index.html",
     "title": "Production Process Simulation",
     "section": "",
-    "text": "This project simulates ABC Co.’s production process to identify bottlenecks and assess the financial impact of delays. By modelling alternative scenarios, it proposes data-driven improvements that enhance efficiency and reduce operational costs."
+    "text": "By simulating ABC Co.’s manufacturing process, I identify bottlenecks and assess the financial impact of delays. By modelling alternative scenarios, I propose data-driven improvements that enhance efficiency and reduce operational costs."
   },
   {
     "objectID": "index.html",
