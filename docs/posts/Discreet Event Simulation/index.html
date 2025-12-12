@@ -163,6 +163,13 @@ ul.task-list li input[type="checkbox"] {
 
 
 </main> <!-- /main -->
+<footer style="text-align:center; padding:1rem 0; font-size:0.7rem; colour:#555;">
+  © 2023–<span id="year"></span> Yulia Lopatina. All rights reserved.
+</footer>
+
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
