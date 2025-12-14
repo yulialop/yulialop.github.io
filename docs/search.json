@@ -18,7 +18,7 @@
     "href": "posts/Workout Tracker/index.html",
     "title": "Workout Performance Tracker",
     "section": "",
-    "text": "This interactive dashboard summarises my workout activity recorded by Apple Watch and converts personal fitness metrics into a clear analytical view. The design draws inspiration from the Apple Watch Workout app, creating a familiar, intuitive interface while demonstrating how analytical methods can be applied to real-world behavioural data."
+    "text": "This interactive dashboard analyses activity and performance data to support decision-making around workload planning, performance optimisation, and risk management. The design draws inspiration from the Apple Watch Workout app, creating a familiar, intuitive interface while demonstrating how analytical methods can be applied to real-world behavioural data to monitor performance drivers, identify risk patterns, and support data-driven optimisation."
   },
   {
     "objectID": "posts/Mobile Games/index.html",
@@ -39,7 +39,7 @@
     "href": "posts/Coffee Quality/index.html",
     "title": "Arabica Coffee Quality",
     "section": "",
-    "text": "This interactive dashboard explores Arabica coffee quality and demonstrates how key attributes influence the overall grade, supported by regression-based insights. It presents coffee as a product with measurable quality drivers, showing how data can inform sourcing decisions, pricing, and strategic positioning within the coffee market."
+    "text": "This interactive dashboard analyses Arabica coffee quality as a product analytics problem, using regression-based insights to identify the key drivers of overall grade. It demonstrates how data can support quality control, sourcing decisions, pricing considerations, and product positioning."
   },
   {
     "objectID": "posts/Discreet Event Simulation/index.html",
