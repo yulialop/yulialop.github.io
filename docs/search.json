@@ -11,7 +11,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Production Process Simulation\n\n\n\ncode\n\ndiscrete event simulation\n\nscenario analysis\n\nR\n\n\n\n\n\n\n\n\n\nApr 22, 2025\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nPredictive Analysis of Mobile Game Ratings\n\n\n\ncode\n\nfeature engineering\n\nmachine learning\n\npredictive analysis\n\nR\n\n\n\n\n\n\n\n\n\nDec 20, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nTime-Series Forecasting - M3 Competition\n\n\n\ncode\n\ntime series\n\nforecasting\n\nR\n\n\n\n\n\n\n\n\n\nApr 5, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nWorkout Performance Tracker\n\n\n\ndashboard\n\nTableau\n\ntime series\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nArabica Coffee Quality\n\n\n\ndashboard\n\nTableau\n\nregression\n\n\n\n\n\n\n\n\n\nAug 8, 2023\n\n\nYulia Lopatina\n\n\n\n\n\nNo matching items"
+    "text": "Manufacturing Process Simulation\n\n\n\ncode\n\ndiscrete event simulation\n\nscenario analysis\n\nR\n\n\n\n\n\n\n\n\n\nApr 22, 2025\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nPredictive Analysis of Mobile Game Ratings\n\n\n\ncode\n\nfeature engineering\n\nmachine learning\n\npredictive analysis\n\nR\n\n\n\n\n\n\n\n\n\nDec 20, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nTime-Series Forecasting - M3 Competition\n\n\n\ncode\n\ntime series\n\nforecasting\n\nR\n\n\n\n\n\n\n\n\n\nApr 5, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nWorkout Performance Tracker\n\n\n\ndashboard\n\nTableau\n\ntime series\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nArabica Coffee Quality\n\n\n\ndashboard\n\nTableau\n\nregression\n\n\n\n\n\n\n\n\n\nAug 8, 2023\n\n\nYulia Lopatina\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/Workout Tracker/index.html",
@@ -44,7 +44,7 @@
   {
     "objectID": "posts/Discreet Event Simulation/index.html",
     "href": "posts/Discreet Event Simulation/index.html",
-    "title": "Production Process Simulation",
+    "title": "Manufacturing Process Simulation",
     "section": "",
     "text": "By simulating ABC Co.’s manufacturing process, I identify bottlenecks and assess the financial impact of delays. By modelling alternative scenarios, I propose data-driven improvements that enhance efficiency and reduce operational costs."
   },
