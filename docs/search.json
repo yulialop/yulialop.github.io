@@ -11,7 +11,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Manufacturing Process Simulation\n\n\n\ncode\n\ndiscrete event simulation\n\nscenario analysis\n\nR\n\nprescriptive analytics\n\n\n\n\n\n\n\n\n\nApr 22, 2025\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nPredictive Analysis of Mobile Game Ratings\n\n\n\ncode\n\nfeature engineering\n\npredictive analytics\n\nR\n\n\n\n\n\n\n\n\n\nDec 20, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nTime-Series Forecasting - M3 Competition\n\n\n\ncode\n\ntime series\n\nforecasting\n\nR\n\npredictive analytics\n\n\n\n\n\n\n\n\n\nApr 5, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nWorkout Performance Tracker\n\n\n\ndashboard\n\nTableau\n\ntime series\n\ndescriptive analytics\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nArabica Coffee Quality\n\n\n\ndashboard\n\nTableau\n\ndescriptive analytics\n\n\n\n\n\n\n\n\n\nAug 8, 2023\n\n\nYulia Lopatina\n\n\n\n\n\nNo matching items"
+    "text": "Manufacturing Process Simulation\n\n\n\ncode\n\ndiscrete event simulation\n\nscenario analysis\n\nR\n\nprescriptive analytics\n\n\n\n\n\n\n\n\n\nApr 22, 2025\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nPredictive Analysis of Mobile Game Ratings\n\n\n\ncode\n\nfeature engineering\n\npredictive analytics\n\nR\n\n\n\n\n\n\n\n\n\nDec 20, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nTime Series Forecasting - Unemployment in Canada\n\n\n\ncode\n\ntime series\n\nforecasting\n\nR\n\npredictive analytics\n\n\n\n\n\n\n\n\n\nApr 5, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nWorkout Performance Tracker\n\n\n\ndashboard\n\nTableau\n\ntime series\n\ndescriptive analytics\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nArabica Coffee Quality\n\n\n\ndashboard\n\nTableau\n\ndescriptive analytics\n\n\n\n\n\n\n\n\n\nAug 8, 2023\n\n\nYulia Lopatina\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/Workout Tracker/index.html",
@@ -30,9 +30,9 @@
   {
     "objectID": "posts/M3 Time-Series Forecasting/index.html",
     "href": "posts/M3 Time-Series Forecasting/index.html",
-    "title": "Time-Series Forecasting - M3 Competition",
+    "title": "Time Series Forecasting - Unemployment in Canada",
     "section": "",
-    "text": "The project assesses the performance of different statistical models in forecasting future values of quarterly time series data from the M3 competition dataset."
+    "text": "In this project, I analysed and forecasted quarterly unemployment trends in Canada using time series forecasting techniques to support labour market analysis and policy-relevant decision-making."
   },
   {
     "objectID": "posts/Coffee Quality/index.html",
