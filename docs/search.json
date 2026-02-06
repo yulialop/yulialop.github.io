@@ -11,42 +11,42 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Manufacturing Process Simulation\n\n\n\ncode\n\ndiscrete event simulation\n\nscenario analysis\n\nR\n\nprescriptive analytics\n\n\n\n\n\n\n\n\n\nApr 22, 2025\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nPredictive Analysis of Mobile Game Ratings\n\n\n\ncode\n\nfeature engineering\n\npredictive analytics\n\nR\n\n\n\n\n\n\n\n\n\nDec 20, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nTime Series Forecasting - Unemployment in Canada\n\n\n\ncode\n\ntime series\n\nforecasting\n\nR\n\npredictive analytics\n\n\n\n\n\n\n\n\n\nApr 5, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nWorkout Performance Tracker\n\n\n\ndashboard\n\nTableau\n\ntime series\n\ndescriptive analytics\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nArabica Coffee Quality\n\n\n\ndashboard\n\nTableau\n\ndescriptive analytics\n\n\n\n\n\n\n\n\n\nAug 8, 2023\n\n\nYulia Lopatina\n\n\n\n\n\nNo matching items"
+    "text": "Simulation-Driven Capacity and Cost Optimisation\n\n\n\ncode\n\nR\n\ndiscrete event simulation\n\nscenario analysis\n\noptimisation\n\nprescriptive analytics\n\n\n\n\n\n\n\n\n\nApr 22, 2025\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Mobile Game Ratings\n\n\n\ncode\n\nR\n\nfeature engineering\n\npredictive analytics\n\n\n\n\n\n\n\n\n\nDec 20, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nForecasting Unemployment in Canada\n\n\n\ncode\n\nR\n\ntime series\n\nforecasting\n\npredictive analytics\n\n\n\n\n\n\n\n\n\nApr 5, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nWorkout Performance Tracker\n\n\n\ndashboard\n\nTableau\n\ntime series\n\ndescriptive analytics\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nArabica Coffee Quality\n\n\n\ndashboard\n\nTableau\n\ndescriptive analytics\n\n\n\n\n\n\n\n\n\nAug 8, 2023\n\n\nYulia Lopatina\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/Workout Tracker/index.html",
     "href": "posts/Workout Tracker/index.html",
     "title": "Workout Performance Tracker",
     "section": "",
-    "text": "This interactive dashboard analyses activity and performance data to support decision-making around workload planning, performance optimisation, and risk management. The design draws inspiration from the Apple Watch Workout app, creating a familiar, intuitive interface while demonstrating how analytical methods can be applied to real-world behavioural data to monitor performance drivers, identify risk patterns, and support data-driven optimisation."
+    "text": "This interactive dashboard transforms activity and performance data into actionable insights for workload planning, performance optimisation, and risk management. Inspired by the Apple Watch interface, it combines an intuitive design with analytical methods to monitor key performance drivers, detect risk patterns, and enable data-driven optimisation of training and recovery strategies."
   },
   {
     "objectID": "posts/Mobile Games/index.html",
     "href": "posts/Mobile Games/index.html",
-    "title": "Predictive Analysis of Mobile Game Ratings",
+    "title": "Predicting Mobile Game Ratings",
     "section": "",
-    "text": "In this project, I analyse the “17K Mobile Strategy Games” to explore the factors associated with user satisfaction and identify patterns driving engagement and positive reviews."
+    "text": "Using machine learning, I identified the key drivers of user satisfaction and engagement in mobile strategy games. The analysis revealed patterns behind positive reviews, providing actionable insights to inform game design, marketing strategy, and product development."
   },
   {
     "objectID": "posts/M3 Time-Series Forecasting/index.html",
     "href": "posts/M3 Time-Series Forecasting/index.html",
-    "title": "Time Series Forecasting - Unemployment in Canada",
+    "title": "Forecasting Unemployment in Canada",
     "section": "",
-    "text": "In this project, I analysed and forecasted quarterly unemployment trends in Canada using time series forecasting techniques to support labour market analysis and policy-relevant decision-making."
+    "text": "In this project, I analysed and predicted quarterly unemployment trends in Canada using time series forecasting models to support labour market analysis and policy-relevant decision-making."
   },
   {
     "objectID": "posts/Coffee Quality/index.html",
     "href": "posts/Coffee Quality/index.html",
     "title": "Arabica Coffee Quality",
     "section": "",
-    "text": "This interactive dashboard analyses Arabica coffee quality as a product analytics problem, using regression-based insights to identify the key drivers of overall grade. It demonstrates how data can support quality control, sourcing decisions, pricing considerations, and product positioning."
+    "text": "This interactive dashboard evaluates Arabica coffee quality through a product analytics lens, using regression-based insights to identify the key drivers of overall grade. The analysis supports data-driven decisions in quality control, sourcing, pricing strategy, and product positioning, demonstrating how analytics can directly inform business value."
   },
   {
     "objectID": "posts/Discreet Event Simulation/index.html",
     "href": "posts/Discreet Event Simulation/index.html",
-    "title": "Manufacturing Process Simulation",
+    "title": "Simulation-Driven Capacity and Cost Optimisation",
     "section": "",
-    "text": "By simulating ABC Co.’s manufacturing process, I identify bottlenecks and assess the financial impact of delays. By modelling alternative scenarios, I propose data-driven improvements that enhance efficiency and reduce operational costs."
+    "text": "By simulating ABC Co.’s manufacturing process, I identified bottlenecks and quantified the financial impact of manufacturing delays. By modelling alternative capacity scenarios, I provided data-driven recommendations that improve operational efficiency and reduce operational costs."
   },
   {
     "objectID": "index.html",
