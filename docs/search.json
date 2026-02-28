@@ -11,28 +11,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Simulation-Driven Capacity and Cost Optimisation\n\n\n\ncode\n\nR\n\ndiscrete event simulation\n\nscenario analysis\n\noptimisation\n\nprescriptive analytics\n\n\n\n\n\n\n\n\n\nApr 22, 2025\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Mobile Game Ratings\n\n\n\ncode\n\nR\n\nfeature engineering\n\npredictive analytics\n\n\n\n\n\n\n\n\n\nDec 20, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nForecasting Unemployment in Canada\n\n\n\ncode\n\nR\n\ntime series\n\nforecasting\n\npredictive analytics\n\n\n\n\n\n\n\n\n\nApr 5, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nWorkout Performance Tracker\n\n\n\ndashboard\n\nTableau\n\ntime series\n\ndescriptive analytics\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nArabica Coffee Quality\n\n\n\ndashboard\n\nTableau\n\ndescriptive analytics\n\n\n\n\n\n\n\n\n\nAug 8, 2023\n\n\nYulia Lopatina\n\n\n\n\n\nNo matching items"
+    "text": "Improving E-commerce Customer Experience with NLP\n\n\n\ncode\n\nPython\n\nR\n\ndata mining\n\ninferential analytics\n\nNLP\n\npredictive analytics\n\n\n\n\n\n\n\n\n\nFeb 28, 2026\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nSimulation-Driven Capacity and Cost Optimisation\n\n\n\ncode\n\nR\n\ndiscrete event simulation\n\nscenario analysis\n\noptimisation\n\nprescriptive analytics\n\n\n\n\n\n\n\n\n\nApr 22, 2025\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Mobile Game Ratings\n\n\n\ncode\n\nR\n\nfeature engineering\n\npredictive analytics\n\n\n\n\n\n\n\n\n\nDec 20, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nForecasting Unemployment in Canada\n\n\n\ncode\n\nR\n\ntime series\n\nforecasting\n\npredictive analytics\n\n\n\n\n\n\n\n\n\nApr 5, 2024\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nWorkout Performance Tracker\n\n\n\ndashboard\n\nTableau\n\ntime series\n\ndescriptive analytics\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\nYulia Lopatina\n\n\n\n\n\n\n\n\n\n\n\n\nArabica Coffee Quality\n\n\n\ndashboard\n\nTableau\n\ndescriptive analytics\n\n\n\n\n\n\n\n\n\nAug 8, 2023\n\n\nYulia Lopatina\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/Workout Tracker/index.html",
-    "href": "posts/Workout Tracker/index.html",
-    "title": "Workout Performance Tracker",
+    "objectID": "posts/Discreet Event Simulation/index.html",
+    "href": "posts/Discreet Event Simulation/index.html",
+    "title": "Simulation-Driven Capacity and Cost Optimisation",
     "section": "",
-    "text": "This interactive dashboard transforms activity and performance data into actionable insights for workload planning, performance optimisation, and risk management. Inspired by the Apple Watch interface, it combines an intuitive design with analytical methods to monitor key performance drivers, detect risk patterns, and enable data-driven optimisation of training and recovery strategies."
-  },
-  {
-    "objectID": "posts/Mobile Games/index.html",
-    "href": "posts/Mobile Games/index.html",
-    "title": "Predicting Mobile Game Ratings",
-    "section": "",
-    "text": "Using machine learning, I identified the key drivers of user satisfaction and engagement in mobile strategy games. The analysis revealed patterns behind positive reviews, providing actionable insights to inform game design, marketing strategy, and product development."
-  },
-  {
-    "objectID": "posts/M3 Time-Series Forecasting/index.html",
-    "href": "posts/M3 Time-Series Forecasting/index.html",
-    "title": "Forecasting Unemployment in Canada",
-    "section": "",
-    "text": "In this project, I analysed and predicted quarterly unemployment trends in Canada using time series forecasting models to support labour market analysis and policy-relevant decision-making."
+    "text": "By simulating ABC Co.’s manufacturing process, I identified bottlenecks and quantified the financial impact of manufacturing delays. By modelling alternative capacity scenarios, I provided data-driven recommendations that improve operational efficiency and reduce operational costs."
   },
   {
     "objectID": "posts/Coffee Quality/index.html",
@@ -42,11 +28,32 @@
     "text": "This interactive dashboard evaluates Arabica coffee quality through a product analytics lens, using regression-based insights to identify the key drivers of overall grade. The analysis supports data-driven decisions in quality control, sourcing, pricing strategy, and product positioning, demonstrating how analytics can directly inform business value."
   },
   {
-    "objectID": "posts/Discreet Event Simulation/index.html",
-    "href": "posts/Discreet Event Simulation/index.html",
-    "title": "Simulation-Driven Capacity and Cost Optimisation",
+    "objectID": "posts/M3 Time-Series Forecasting/index.html",
+    "href": "posts/M3 Time-Series Forecasting/index.html",
+    "title": "Forecasting Unemployment in Canada",
     "section": "",
-    "text": "By simulating ABC Co.’s manufacturing process, I identified bottlenecks and quantified the financial impact of manufacturing delays. By modelling alternative capacity scenarios, I provided data-driven recommendations that improve operational efficiency and reduce operational costs."
+    "text": "In this project, I analysed and predicted quarterly unemployment trends in Canada using time series forecasting models to support labour market analysis and policy-relevant decision-making."
+  },
+  {
+    "objectID": "posts/Mobile Games/index.html",
+    "href": "posts/Mobile Games/index.html",
+    "title": "Predicting Mobile Game Ratings",
+    "section": "",
+    "text": "Using machine learning, I identified the key drivers of user satisfaction and engagement in mobile strategy games. The analysis revealed patterns behind positive reviews, providing actionable insights to inform game design, marketing strategy, and product development."
+  },
+  {
+    "objectID": "posts/Workout Tracker/index.html",
+    "href": "posts/Workout Tracker/index.html",
+    "title": "Workout Performance Tracker",
+    "section": "",
+    "text": "This interactive dashboard transforms activity and performance data into actionable insights for workload planning, performance optimisation, and risk management. Inspired by the Apple Watch interface, it combines an intuitive design with analytical methods to monitor key performance drivers, detect risk patterns, and enable data-driven optimisation of training and recovery strategies."
+  },
+  {
+    "objectID": "posts/NLP-Analysis-of-OCRs/index.html",
+    "href": "posts/NLP-Analysis-of-OCRs/index.html",
+    "title": "Improving E-commerce Customer Experience with NLP",
+    "section": "",
+    "text": "Using NLP on Amazon customer reviews, I identified the key drivers of customer satisfaction and uncovered meaningful customer segments. I provided data-driven recommendations to improve product quality, manage customer expectations, and reduce reputational and revenue risk in e-commerce."
   },
   {
     "objectID": "index.html",
