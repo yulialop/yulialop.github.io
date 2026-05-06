@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/cv.html",
+    "listing": "/cv copy.html",
     "items": []
   },
   {
@@ -13,5 +13,9 @@
       "/posts/Workout Tracker/index.html",
       "/posts/Coffee Quality/index.html"
     ]
+  },
+  {
+    "listing": "/cv.html",
+    "items": []
   }
 ]
